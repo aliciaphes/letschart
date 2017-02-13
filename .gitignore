@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-logs/*
-!.gitkeep
-node_modules/
-bower_components/
-tmp
-.DS_Store
-.idea
-=======
 # Logs
 logs
+logs/*
 *.log
 npm-debug.log*
+
 
 # Runtime data
 pids
@@ -44,4 +37,15 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
->>>>>>> d498665207b33162250df1299f180d52dca60886
+
+
+
+
+!.gitkeep
+bower_components/
+tmp
+.DS_Store
+.idea
+
+
+
